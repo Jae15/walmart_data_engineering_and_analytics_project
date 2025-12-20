@@ -179,5 +179,4 @@ jupyter notebook
 
 Janet Mwangi - https://www.linkedin.com/in/jae-m-9a492636/
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
-
+Project Link: https://github.com/Jae15/walmart_data_engineering_and_analytics_project
